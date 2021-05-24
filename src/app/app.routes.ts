@@ -8,7 +8,7 @@ export const appRoutes: Routes = [
         component: MatchListComponent
     },
     {
-        path: '/matches/:id',
+        path: 'matches/:id',
         component: MatchDetailComponent
     },
 ]
